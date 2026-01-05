@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.guicedee.services:javax.servlet.jsp.jstl:62" type="repository">
+    <properties maven-id="com.guicedee.services:javax.servlet.jsp.jstl:62" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/javax.servlet.jsp.jstl/62/javax.servlet.jsp.jstl-62.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.servlet.jsp.jstl-api/62/jakarta.servlet.jsp.jstl-api-62.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.servlet.jsp-api/62/jakarta.servlet.jsp-api-62.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/javax.servlet-api/62/javax.servlet-api-62.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.el/62/jakarta.el-62.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
