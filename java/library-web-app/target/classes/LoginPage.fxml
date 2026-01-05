@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.LogInController">
+   <children>
+      <Pane layoutX="-1.0" prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <Button fx:id="logInButton" layoutX="198.0" layoutY="260.0" mnemonicParsing="false" onAction="#logIn" prefHeight="78.0" prefWidth="205.0" text="Log in" />
+            <TextField fx:id="nameBar" layoutX="191.0" layoutY="46.0" prefHeight="25.0" prefWidth="222.0" promptText="Name" />
+            <TextField fx:id="surnameBar" layoutX="191.0" layoutY="91.0" prefHeight="25.0" prefWidth="222.0" promptText="Surname" />
+            <TextField fx:id="CompanyName" layoutX="191.0" layoutY="156.0" prefHeight="25.0" prefWidth="222.0" promptText="Company name" />
+            <TextField fx:id="CompanyEmail" layoutX="192.0" layoutY="200.0" prefHeight="25.0" prefWidth="222.0" promptText="Company email" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
